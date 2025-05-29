@@ -3,29 +3,29 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Cristhian David Britez Martinez
+  tagline: Oracle Database & Related Consulting
+  avatar: cbritezm.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: cbritezm@gmail.com
+  phone: +595 971 943 140
+  timezone: America/Asuncion # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://www.cbritezm.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: cbritezm
+  xing:
+  github: cbritezm
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: #'@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@cbritezm'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,63 +38,76 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
+      level: Proffessional
 
     - idiom: Spanish
-      level: Professional
+      level: Native
 
+    - idiom: Guarani
+      level: Native
+
+    - idiom: Catalan
+      level: Basic
+
+    - idiom: French
+      level: Basic
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Rollerblading
       link:
 
 
-    - item: Snowboarding
+    - item: Read & Music
       link:
 
 
-    - item: Cooking
+    - item: Swimming
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I'm a qualified engineer with over 12 years of experience as well as excellent track record
+    in managing and deploying complex oracle architectures like Oracle RAC, Oracle Dataguard, Oracle Exadata, Oracle Cloud.
+    I'm passionate about discovering and learning new architecture, tools and programing languajes,
+    I used to work with linux scripting, python, perl, php and java.
+    I have strong technical skills. I am eager to be challenged in order to grow and further improve my skills.
+    My greatest passion is using my technical know-how to benefit other people and organisations.
+    I'm a qualified engineer with over 15 years of experience as well as excellent track record in managing and deploying
+    complex oracle architectures like Oracle RAC, Oracle Dataguard, Oracle Exadata, Oracle Cloud.
+    I'm passionate about discovering and learning new architecture,
+    tools and programing languajes, I used to work with linux scripting, python, perl, php and java.
+    I have strong technical skills. I am eager to be challenged in order to grow and further improve my skills,
+    my greatest passion is using my technical know-how to benefit other people and organisations.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Compute Engineering
+    university: University of Columbia(Paraguay)
+    time: 2006 - 2011
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Studying here providedme a solid foundation in both hardware and software systems,
+      equipping me with the analytical and technical skills necessary to design,
+      implement and manage complex IT solutions. Some of the covered disciplines include:
+        - Data structure and algorithms
+        - Computer architecture and operating systems
+        - Database Systems and SQL
+        - Software engineering and o-o programing.
+        - Networks
+        - Computing logics
+#  - degree: BSc in Applied Mathematics
+#    university: Bristol University
+#    time: 2007 - 2011
+#    details: |
+#      Describe your study here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#      sociis natoque penatibus et magnis dis parturient montes, nascetur
+#      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#      pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
 
 experiences:
   title: Experiences
